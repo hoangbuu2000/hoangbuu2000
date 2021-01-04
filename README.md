@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Open University
+- 🌱 I’m currently learning information technology
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: send mail to me 1851050010buu@ou.edu.vn
+- 😄 Pronouns: laborious
+- ⚡ Fun fact: ...
 
 <!--
 **hoangbuu2000/hoangbuu2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
